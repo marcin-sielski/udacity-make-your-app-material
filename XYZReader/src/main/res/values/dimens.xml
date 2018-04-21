@@ -6,11 +6,11 @@
     <dimen name="elevation_fab_pressed">6dp</dimen>
     <dimen name="margin">16dp</dimen>
     <dimen name="padding">16dp</dimen>
-    <dimen name="detail_padding">72dp</dimen>
-    <dimen name="toolbar_margin">52dp</dimen>
+    <dimen name="toolbar_margin">28dp</dimen>
     <dimen name="cover_height">240dp</dimen>
     <dimen name="image_height">180dp</dimen>
     <dimen name="width_body">240dp</dimen>
     <dimen name="detail_backdrop_height">256dp</dimen>
     <integer name="list_column_count">2</integer>
+    <dimen name="detail_padding">48dp</dimen>
 </resources>

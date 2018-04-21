@@ -154,8 +154,7 @@ public class ArticleDetailFragment extends Fragment implements
                         });
                 mAppBarLayout.addOnOffsetChangedListener((appBarLayout, verticalOffset) -> {
                     DisplayMetrics displayMetrics = activity.getResources().getDisplayMetrics();
-                    if (Math.abs(verticalOffset) >= appBarLayout.getTotalScrollRange() -
-                            appBarLayout.getHeight()/displayMetrics.density/2) {
+                    if (Math.abs(verticalOffset) >= appBarLayout.getTotalScrollRange()/2) {
                         mArticleByLine.setVisibility(View.GONE);
                         mArcView.setElevation(0);
                     } else {
