@@ -4,8 +4,8 @@
     <dimen name="elevation_card">2dp</dimen>
     <dimen name="elevation_fab">6dp</dimen>
     <dimen name="elevation_fab_pressed">6dp</dimen>
-    <dimen name="margin">16dp</dimen>
-    <dimen name="padding">16dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="padding">8dp</dimen>
     <dimen name="toolbar_margin">28dp</dimen>
     <dimen name="cover_height">240dp</dimen>
     <dimen name="image_height">180dp</dimen>

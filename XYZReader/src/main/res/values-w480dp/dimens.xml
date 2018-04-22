@@ -1,3 +1,5 @@
 <resources>
     <dimen name="width_body">320dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
 </resources>
